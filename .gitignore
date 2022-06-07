@@ -1,0 +1,4 @@
+dist
+src/colourful_console.egg-info
+src/colouful_console/__pycache__
+src/test/__pycache__
