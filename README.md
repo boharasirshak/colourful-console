@@ -58,12 +58,12 @@ console.set_title(
 ## Todo
 
 - [ ] Add more colors
-- [ ] Add uniqe textstyling like underline, bold, strikethrough
-- [ ] Add custom styles for specifi platform and command line apps
+- [ ] Add uniqe text styling like underline, bold, strikethrough
+- [ ] Add custom styles for specific platform and command line apps
 
 #
 
 ## Note
 The terminal in unix and max are much more capable and better to show colors than window's cmd and powershell.
 
-Microsoft released a new terminal which is as capable to show colors like unix/mac terminals named **terminal** on [Microsoft store](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-np), you can use that terminal to show fancy styles in window platform
+Microsoft released a new terminal which is as capable to show colors like unix/mac terminals named **windows terminal** on [Microsoft store](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-np), you can use that terminal to show fancy styles in window platform
