@@ -1,5 +1,6 @@
 import os
 import sys
+import ctypes
 
 def title(string: str):
     """Sets the console title as per string
