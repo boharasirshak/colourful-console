@@ -5,7 +5,7 @@ with open('README.md', encoding='utf8') as f:
 
 setup(
     name='colourful-console',
-    version='1.0.0',
+    version='1.0.1',
     author='Sirshak Bohara',
     author_email='021neb459@sxc.edu.np',
     description='A simple python package to print colors in terminal using simple markup syntax',
